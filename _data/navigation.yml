@@ -1,0 +1,21 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Our Process"
+    url: /our-process/
+  - title: "Evaluation"
+    url: /docs/
+  - title: "Our Team"
+    url: /about-us/
+
+sidebar-nav:
+  - title: "Our Project"
+    children:
+      - title: "Our User Study Plan"
+        url: /
+      - title: "Our Design Process"
+        url: /
+      - title: "Prototype Evaluation"
+        url: /
+      - title: "View Prototype"
+        url: /
