@@ -25,7 +25,14 @@ gallery:
 
 Our initial project idea, was called PomoFomo. Our idea for PopoFomo was to create an application that encourages students to study, using peer motivation and competition between peers. 
 
-The main idea for the application is to create a platform where students have access to a shared virtual room with their friends and they can work together to complete self-scheduled timed study sessions, and earn coins upon completion of a study session. The coins earned then can be used to decorate the shared virtual room with their friends.
+The main idea for the application is to create a platform where students have access to a shared virtual room with their friends and they can work together to complete self-scheduled timed study sessions, and earn coins upon completion of a study session. The coins earned then can be used to decorate the shared virtual room with their friends. Friend may compete with each other through viewing total coins accumulated on a common leaderboard between friend groups, or between individuals. 
+
+The competition and rewards offered by these features were something we saw as a solution to address the pain points and frustrations of studying alone.
+
+<img src="../images/pomofomo.png" width="200" alt="Shared Room in PomoFomo"/>{: .align-center}
+_Shared Room in PomoFomo_
+
+In the creation of our project proposal, we decided to come up with a list of features that we may want to see as students using the application, through creating _user stories_, using [Trello](https://trello.com/en).
 
 **Issues**
 
@@ -82,6 +89,8 @@ For this 1st iteration, each member came up with 1 prototype each based on our o
 {% endcapture %}
 
 <div class="notice--primary">{{ links-to-prototypes | markdownify }}</div>
+
+The above prototypes were evaluated by our group's TA, who gave feedback, and insights on the features that she liked from each prototype
 
 ### Prototype 2nd Iteration
 For the 2nd iteration, we decided to pick the 2 best prototypes from the 4 prototypes in the 1st iteration, to be used for our [Expert (Peer) Evaluation]().

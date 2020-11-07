@@ -12,7 +12,7 @@ toc_label: "Table of Contents"
 ## Overview
 
 **Background**  
-For our project, we conducted both Export (peer) and User evaluation. The evaluation was done on the 2 prototypes chosen in the [Second Iteration of our Design Process](/questcrunch/our-process/#prototype-2nd-iteration).
+For our project, we conducted both Expert (peer) and User evaluation. The evaluation was done on the 2 prototypes chosen in the [Second Iteration of our Design Process](/questcrunch/our-process/#prototype-2nd-iteration).
 
 As QuestCrunch has 2 target user groups, our prototypes have 2 user interfaces, an interface for teachers, and an interface for students. The fact that we have 2 user interfaces was taken into consideration during our evaluation of the prototype, as we wanted to ensure the needs of each user group are met in their specific interfaces in our prototypes.
 
