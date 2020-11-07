@@ -4,6 +4,8 @@ main:
   - title: "Our Process"
     url: /our-process/
   - title: "Evaluation"
+    url: /evaluation/
+  - title: "Docs"
     url: /docs/
   - title: "Our Team"
     url: /about-us/
