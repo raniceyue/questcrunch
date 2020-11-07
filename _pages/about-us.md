@@ -1,25 +1,37 @@
 ---
 layout: single
-title: About Us
+title: Our Team
 permalink: /about-us/
 author_profile: true
-sidebar: 
-    - title: "Group Members"
-    - text: "Beatrice Tay  <br/>
-    Ranice Tan  <br/>
-    Harshita  <br/>
-    Elizabeth <br/>"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### Beatrice Tay
+A0190106R
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Fun Fact**  
+_"I like indie games"_
+
+#### Elizabeth Tan
+A0185877E
+
+**Fun Fact**  
+_"I like indie ducks..."_
 
 
-[jekyll-organization]: https://github.com/jekyll
+#### Tiyari Harshita
+A0185057Y
+
+**Fun Fact**  
+_"I like purple"_
+
+
+
+
+<img src="../images/ranice.png" width="150"/>{: .align-left}  
+
+**Ranice Tan Yue Xuan**  
+A0187145Y
+
+**Fun Fact**  
+_"I like orangutans"_

@@ -10,15 +10,23 @@ toc_label: "Table of Contents"
 ---
 
 ## Overview
-For our project, we conducted both expert (peer) and user evaluation. The evaluation was done on the 2 prototypes, for both the teacher and student views. 
 
-Expert evaluation was done by all 4 members of the team before we conducted the user evaluation in Week 10. 
+**Background**  
+For our project, we conducted both Export (peer) and User evaluation. The evaluation was done on the 2 prototypes chosen in the [Second Iteration of our Design Process](/questcrunch/our-process/#prototype-2nd-iteration).
 
-User evaluation has 2 sets, one set of 4 peer evaluators evaluating both views for each prototype was conducted in Week 10. 
+As QuestCrunch has 2 target user groups, our prototypes have 2 user interfaces, an interface for teachers, and an interface for students. The fact that we have 2 user interfaces was taken into consideration during our evaluation of the prototype, as we wanted to ensure the needs of each user group are met in their specific interfaces in our prototypes.
 
-The other set was with real users, 2 students and 2 teachers evaluated the respective prototypes. The real user evaluation was conducted in week 11. 
+**Evaluation Process**  
+The Expert (Peer) Evaluation was done by all 4 members of our team, and consisted of 4 peer evaluators evaluating both views for 2 different prototype. This was conducted in Week 10. The findings gathered from this evaluation were used in the development of our [Third Iteration Prototype](/questcrunch/our-process/#prototype-3rd-iteration)
+
+The User Evaluation was conducted with our real target users, teachers and students. 2 students and 2 teachers evaluated their respective interfaces for a semi-final prototype. This was conducted in Week 11. The findings gathered from this evaluation were used in the development of our [Fourth Iteration Prototype](/questcrunch/our-process/#prototype-4th-iteration) aka our final prototype.
+
 
 ## Expert (Peer) Evaluation
+
+### Purpose
+
+Our main goal for this stage of evaluation, was to get an insight on the general _usability_ of each of the 2 prototypes, and the intuitivity of the user flows to complete tasks in the application.
 
 ### Plan
 
@@ -46,7 +54,7 @@ We gave each evaluator a list of tasks, and each evaluator was instructed to com
 |50%|Succeeds, but in a roundabout way, making errors, needing to back track or using on-line help|
 |100%|Succeeds quickly, following the intended user flow|
 
-### Takeaways
+### Results
 
 After the evaluation, we summarised the issues raised during each evaluation session for each prototype. 
 
@@ -62,6 +70,8 @@ After the evaluation, we summarised the issues raised during each evaluation ses
 |6| Overall | Colour scheme may be too monotonic | Low |
 |7| Home Page | Calendar icon to switch to calendar view was not intuitive | Low |
 
+<br>
+
 **Prototype B**
 
 |No.| Page/Component| Issue | Severity |
@@ -75,6 +85,8 @@ After the evaluation, we summarised the issues raised during each evaluation ses
 |7| Overall | Application does not prompt the user for confirmation/show a success message after the user completes some activity, may make the user feel not in control.| Medium |
 |8| Overall | Distracting background and colour scheme can make it difficult for users to navigate through the application | Low |
 
+<br>
+
 **Prototype A vs. Prototype B**
 
 From the evaluation, we summarised the aspects that we felt one prototype performed better in during the evaluation. 
@@ -85,6 +97,15 @@ From the evaluation, we summarised the aspects that we felt one prototype perfor
 | Functionality | |&#10004; |
 | Appeal to Teachers | &#10004;| |
 | Appeal to Students | | &#10004;| 
+
+
+**Detailed Report of Expert Evaluation**
+
+A detailed report on the results and responses received from each evaluator can be found at the following link 
+
+[Final Report: Usability Testing](https://docs.google.com/document/d/1ZUKYrPgtIlRw27-JSuJBi515Fk1e4NPJaNzw9SYYjII/edit?usp=sharing){: .btn .btn--info}
+
+### Insights  
 
 Overall, our findings were that Prototype A had a clear user flow, but was too plain looking and felt lacking in functionality due to its simplistic take. On the other hand, prototype B was visually pleasing but at times it seemed visually overwhelming and overly complicated, making users confused on certain user navigation with a significantly lower percentage of completion. Yet, the majority of the users still preferred prototype B for its completeness.
 
