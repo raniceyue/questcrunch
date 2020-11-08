@@ -5,22 +5,12 @@ main:
     url: /our-process/
   - title: "Evaluation"
     url: /evaluation/
-  - title: "Docs"
-    url: /docs/
+  - title: "User Flow"
+    url: /user-flow/
   - title: "Our Team"
     url: /about-us/
 
 sidebar-nav:
-  - title: "Our Project"
-    children:
-      - title: "Our User Study Plan"
-        url: /
-      - title: "Our Design Process"
-        url: /
-      - title: "Prototype Evaluation"
-        url: /
-      - title: "View Prototype"
-        url: /
   - title: "Additional Documents"
     children:
       - title: "Phase 0 Trello (Link)"

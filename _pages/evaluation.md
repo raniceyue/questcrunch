@@ -5,8 +5,6 @@ title: "Prototype Evaluation"
 permalink: /evaluation/
 sidebar:
     nav: "sidebar-nav"
-sidebar:
-    nav: "sidebar-downloads"
 toc: true
 toc_label: "Table of Contents"
 ---
@@ -26,9 +24,11 @@ The User Evaluation was conducted with our real target users, teachers and stude
 
 ## Expert (Peer) Evaluation
 
+For this evaluation, we consulted 4 of our peers in the same module for their insighs and feedback on the user flow and interface design of our application. The evaluation was conducted by all members of the team, over Zoom. 
+
 ### Purpose
 
-Our main goal for this stage of evaluation, was to get an insight on the general _usability_ of each of the 2 prototypes, and the intuitivity of the user flows to complete tasks in the application.
+Our main goal for this stage of evaluation, was to get an insight on the general _usability_ of each of the 2 prototypes, and the intuitivity of the user flows to complete tasks in the application-- From the perspective of peers that are well versed with the design concepts and heuristics taught in the module.
 
 ### Plan
 
@@ -115,8 +115,16 @@ As such, we aimed to strike a balance between functional, completeness, visual s
 
 ## User Evaluation
 
-[View User Evaluation Results](https://docs.google.com/document/d/1GO8cm5W0EPDc9ytAh63yDP0qb6BTgirxnGwJOV7l2ac/edit?usp=sharing){:.btn .btn--info}
+For this evaluation, we managed to contact 3 students and 2 teachers to conduct a real user evaluation on the [3rd iteration of our prototype](/questcrunch/our-process/#prototype-3rd-iteration). The evaluation was conducted by all members of the team, via Zoom.
+
+### Purpose
+
+The purpose of this evaluation is to get an understanding of the usability and intuitiveness of our application from the perspective of our target users. The results of this round of evaluation are crucial to understand important flaws in the current prototype that we may have missed out during the design process.
 
 ### Plan
 
-### Takeaways
+### Results
+
+[View User Evaluation Results](https://docs.google.com/document/d/1GO8cm5W0EPDc9ytAh63yDP0qb6BTgirxnGwJOV7l2ac/edit?usp=sharing){:.btn .btn--info}
+
+### Insights

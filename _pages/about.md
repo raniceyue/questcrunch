@@ -41,4 +41,6 @@ In QuestCrunch, the timed study sessions in the application are scheduled by a t
 ![](../images/user-flow.png){: .align-center}
 > Right click and open this image in a new tab to see an expanded version
 
+To find out more about the general user flow of the application, [click here](/questcrunch/user-flow/).
+
 

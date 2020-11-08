@@ -125,15 +125,21 @@ In coming up with this 3rd iteration of the prototype, we carefully considered _
 
 | Heuristic          | Feature in Prototype |
 |--------------------|----------------------|
-|1. Visibility of system status |  a. When user does an action, they will receive a notification pop up to indicate completeness of the action taken <br> b. Teachers are informed of the the number of available rewards in the rewards tab |
-|2. Match between system and the real world | a. Icons that were used mirrors similar events in the real world: eg: to represent the calendar view, we had a calendar icon. A House icon to represent the home page. These icons are very much understandable and user were able to navigate through the prototype well. <br> b. Teachers are informed of the availability status of rewards through the 3-colour traffic colour theme (green, yellow, red) to represent available, runnings low or unavailable respectively |
-|3. User control and freedom | Users are allowed to go back when they are on secondary pages (not the landing page for respective menu tab icons) |
-|4. Consistency and standards | Buttons, fonts and font size were standardized throughout the final prototype |
-|5. Error Prevention | We included respective warning messages for ‘dangerous’ acts such as deleting rewards and forfeiting quests |
-|6. Recognition over recall | |
-|7. Flexibility and Efficiency of Use | a. Students can scan a QR code or type in the generated code to join a class <br> b. Students can also view and join quests in list form of calendar form |
-|8. Aesthetic and minimalistic Design||
+|Visibility of system status |  a. When user does an action, they will receive a notification pop up to indicate completeness of the action taken <br> b. Teachers are informed of the the number of available rewards in the rewards tab |
+|Match between system and the real world | a. Icons that were used mirrors similar events in the real world: eg: to represent the calendar view, we had a calendar icon. A House icon to represent the home page. These icons are very much understandable and user were able to navigate through the prototype well. <br> b. Teachers are informed of the availability status of rewards through the 3-colour traffic colour theme (green, yellow, red) to represent available, runnings low or unavailable respectively |
+|User control and freedom | Users are allowed to go back when they are on secondary pages (not the landing page for respective menu tab icons) |
+|Consistency and standards | Buttons, fonts and font size were standardized throughout the final prototype |
+|Error Prevention | We included respective warning messages for ‘dangerous’ acts such as deleting rewards and forfeiting quests |
+|Recognition over recall | a. The calendar view helps to consolidate the quests for the month <br> b. The home page also displays new quests for the students so that students do not have to remember which quests were already present and which are new <br> c. There is a progress bar for students when doing quest so that they do not have to remember the time left |
+|Flexibility and Efficiency of Use | a. Students can scan a QR code or type in the generated code to join a class <br> b. Students can also view and join quests in list form of calendar form |
+|Aesthetic and minimalistic Design| The functionalities offered to the both sets of users only have the relevant information presented to them. Eg. for the statistics shown for quest for students, the view only allows students to see the overall statistics, whereas for teachers, they are able to view the specific groups who have not completed the quest |
 
 Using this 3rd prototype, we conducted another evaluation with our target users, Teachers and Students. 
 
 ### Prototype 4th Iteration
+For the 4th iteration, after gathering insights from our [Real User Evaluation](/questcrunch/evaluation/#user-evaluation), we decided to do one last polish of our application's user interface based on the feedback given by our real users.
+
+{% include figure 
+    image_path="/images/v4.png"
+    caption="Prototype 4th Iteration" 
+%}

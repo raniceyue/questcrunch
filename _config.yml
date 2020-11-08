@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Group 24"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : images/us.jpg
   bio              : "Hello! We are Group 24 from the module CS3240 Interaction Design taken in AY20/21"
   email            :
   links:

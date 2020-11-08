@@ -21,7 +21,6 @@ A0185877E
 **Fun Fact**  
 _"I like indie ducks..."_
 
-
 <img src="../images/harshi.jpg" width="190"/>{: .align-left}  
 
 #### Tiyari Harshita
@@ -30,7 +29,6 @@ A0185057Y
 **Fun Fact**  
 _"I like purple"_
 
-
 <img src="../images/ranice.png" width="190"/>{: .align-left}  
 
 **Ranice Tan Yue Xuan**  
@@ -38,3 +36,8 @@ A0187145Y
 
 **Fun Fact**  
 _"I like orangutans"_
+
+
+
+
+
