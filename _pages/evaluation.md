@@ -5,6 +5,8 @@ title: "Prototype Evaluation"
 permalink: /evaluation/
 sidebar:
     nav: "sidebar-nav"
+sidebar:
+    nav: "sidebar-downloads"
 toc: true
 toc_label: "Table of Contents"
 ---
@@ -103,7 +105,7 @@ From the evaluation, we summarised the aspects that we felt one prototype perfor
 
 A detailed report on the results and responses received from each evaluator can be found at the following link 
 
-[Final Report: Usability Testing](https://docs.google.com/document/d/1ZUKYrPgtIlRw27-JSuJBi515Fk1e4NPJaNzw9SYYjII/edit?usp=sharing){: .btn .btn--info}
+[View Peer Evaluation Results](https://docs.google.com/document/d/1ZUKYrPgtIlRw27-JSuJBi515Fk1e4NPJaNzw9SYYjII/edit?usp=sharing){: .btn .btn--info}
 
 ### Insights  
 
@@ -112,6 +114,8 @@ Overall, our findings were that Prototype A had a clear user flow, but was too p
 As such, we aimed to strike a balance between functional, completeness, visual simplicity and appeal for our final prototype, while addressing the above problems raised, so that our application will be both easy to navigate and appealing to our target audiences.
 
 ## User Evaluation
+
+[View User Evaluation Results](https://docs.google.com/document/d/1GO8cm5W0EPDc9ytAh63yDP0qb6BTgirxnGwJOV7l2ac/edit?usp=sharing){:.btn .btn--info}
 
 ### Plan
 

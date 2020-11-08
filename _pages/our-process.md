@@ -32,7 +32,9 @@ The competition and rewards offered by these features were something we saw as a
 <img src="../images/pomofomo.png" width="200" alt="Shared Room in PomoFomo"/>{: .align-center}
 _Shared Room in PomoFomo_
 
-In the creation of our project proposal, we decided to come up with a list of features that we may want to see as students using the application, through creating _user stories_, using [Trello](https://trello.com/en).
+In the creation of our project proposal, we decided to come up with a list of features that we may want to see as students using the application, through creating _user stories_, using [Trello](https://trello.com/en), which is a online application that acts like a corkboard with sticky notes for brainstorming purposes.
+
+[View Our Trello](https://trello.com/b/sV0HTqzV/pomofomo){: .btn .btn--info}
 
 **Issues**
 
@@ -119,7 +121,7 @@ For the 3rd iteration, after gathering feedback from our expert evaluation, we d
 ![](../images/final prototype screen grab 1.png)
 ![](../images/final prototype screen grab 2.png)
 
-In coming up with this 3rd iteration of the prototype, we carefully considered _Neilson's Heuristics_ in the design of each page. 
+In coming up with this 3rd iteration of the prototype, we carefully considered _Neilson's Heuristics_ in the design of each page and employed 8 of the heuristics in our design.
 
 | Heuristic          | Feature in Prototype |
 |--------------------|----------------------|
@@ -129,10 +131,8 @@ In coming up with this 3rd iteration of the prototype, we carefully considered _
 |4. Consistency and standards | Buttons, fonts and font size were standardized throughout the final prototype |
 |5. Error Prevention | We included respective warning messages for ‘dangerous’ acts such as deleting rewards and forfeiting quests |
 |6. Recognition over recall | |
-|7. Flexibility and Efficiency of Use ||
+|7. Flexibility and Efficiency of Use | a. Students can scan a QR code or type in the generated code to join a class <br> b. Students can also view and join quests in list form of calendar form |
 |8. Aesthetic and minimalistic Design||
-|9. Help users recognise, diagnose, and recover from errors ||
-|10. Help and Documentation||
 
 Using this 3rd prototype, we conducted another evaluation with our target users, Teachers and Students. 
 

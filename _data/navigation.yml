@@ -21,3 +21,15 @@ sidebar-nav:
         url: /
       - title: "View Prototype"
         url: /
+  - title: "Additional Documents"
+    children:
+      - title: "Phase 0 Trello (Link)"
+        url: https://trello.com/b/sV0HTqzV/pomofomo
+      - title: "User Study Plan (PDF)"
+        url: /downloads/user-study-plan.pdf
+      - title: "Evaluation Plan (Link)"
+        url: https://docs.google.com/document/d/1mDH7T2XLrzwWuDr8nBcftSAlmypC7ERmCkwM-8MGmdE/edit?usp=sharing
+      - title: "Peer Evaluation Responses (Link)"
+        url: https://docs.google.com/document/d/1ZUKYrPgtIlRw27-JSuJBi515Fk1e4NPJaNzw9SYYjII/edit?usp=sharing
+      - title: "User Evaluation Responses (Link)"
+        url: https://docs.google.com/document/d/1GO8cm5W0EPDc9ytAh63yDP0qb6BTgirxnGwJOV7l2ac/edit?usp=sharing
