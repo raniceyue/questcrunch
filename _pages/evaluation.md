@@ -41,12 +41,12 @@ A detailed breakdown of our evaluation plan can be found at the following link
 Our main goal for this stage of evaluation, was to get an insight on the general _usability_ of each of the 2 prototypes, and the intuitivity of the user flows to complete tasks in the application-- From the perspective of peers that are well versed with the design concepts and heuristics taught in the module.
 
 {% include figure 
-    image_path="/images/A_3 grabs.png" 
+    image_path="/images/v2-1.png" 
     caption="Prototype A" 
 %}
 
 {% include figure 
-    image_path="/images/B_3 grabs.png" 
+    image_path="/images/v2-2.png" 
     caption="Prototype B" 
 %}
 
