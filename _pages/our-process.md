@@ -76,7 +76,7 @@ For this 1st iteration, each member came up with 1 prototype each based on our o
 
 
 {% include figure 
-    image_path="/images/Four different prototypes.png" 
+    image_path="/images/v1.png" 
     caption="Prototypes 1, 2, 3 and 4" 
 %}
 
@@ -118,15 +118,15 @@ Using these 2 prototypes, we conducted our [Expert (Peer) Evaluation]() to guage
 ### Prototype 3rd Iteration
 For the 3rd iteration, after gathering feedback from our expert evaluation, we decided to combine the good aspects of each respective prototype into 1 semi-final prototype.
 
-![](../images/final prototype screen grab 1.png)
-![](../images/final prototype screen grab 2.png)
+![](../images/v3-1.png)
+![](../images/v3-2.png)
 
 In coming up with this 3rd iteration of the prototype, we carefully considered _Neilson's Heuristics_ in the design of each page and employed 8 of the heuristics in our design.
 
 | Heuristic          | Feature in Prototype |
 |--------------------|----------------------|
 |Visibility of system status |  a. When user does an action, they will receive a notification pop up to indicate completeness of the action taken <br> b. Teachers are informed of the the number of available rewards in the rewards tab |
-|Match between system and the real world | a. Icons that were used mirrors similar events in the real world: eg: to represent the calendar view, we had a calendar icon. A House icon to represent the home page. These icons are very much understandable and user were able to navigate through the prototype well. <br> b. Teachers are informed of the availability status of rewards through the 3-colour traffic colour theme (green, yellow, red) to represent available, runnings low or unavailable respectively |
+|Match between system and the real world | a. Icons that were used mirrors similar events in the real world: eg: to represent the calendar view, we had a Calendar icon. A House icon to represent the home page. These icons are very much understandable and user were able to navigate through the prototype well. <br> b. Teachers are informed of the availability status of rewards through the 3-colour traffic colour theme (green, yellow, red) to represent available, runnings low or unavailable respectively |
 |User control and freedom | Users are allowed to go back when they are on secondary pages (not the landing page for respective menu tab icons) |
 |Consistency and standards | Buttons, fonts and font size were standardized throughout the final prototype |
 |Error Prevention | We included respective warning messages for ‘dangerous’ acts such as deleting rewards and forfeiting quests |

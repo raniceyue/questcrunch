@@ -21,7 +21,7 @@ feature_row:
   - image_path: /images/phase0.svg
     alt: "placeholder image 2"
     title: "Project Proposal"
-    excerpt: 'Phase 0 was when we conceptualised our idea of our application, the problems we our application wanted to address, and the solutions that we wanted to provide in our application, through our Project Proposal.'
+    excerpt: 'Phase 0 was when we conceptualised our idea of our application, the problems our application wanted to address, and the solutions that we wanted to provide in our application, through our Project Proposal.'
     url: "/our-process/#project-proposal"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -57,7 +57,7 @@ feature_row5:
   - image_path: /images/4.svg
     alt: "placeholder image 2"
     title: "Final Prototype"
-    excerpt: ''
+    excerpt: 'Phase 2C was the final phase of our project. After conducting our Real User Evaluation to guage the usability of the application, we made some final changes based on the insights gained in our evaluation, and thus developed our final prototype!'
     url: "/evaluation/#expert-peer-evaluation"
     btn_label: "Read More"
     btn_class: "btn--primary"

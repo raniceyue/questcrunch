@@ -12,23 +12,43 @@ toc_label: "Table of Contents"
 ## Overview
 
 **Background**  
-For our project, we conducted both Expert (peer) and User evaluation. The evaluation was done on the 2 prototypes chosen in the [Second Iteration of our Design Process](/questcrunch/our-process/#prototype-2nd-iteration).
+For our project, we conducted 2 rounds of usability testing 
+
+1. Expert (peer) Evaluation
+2. User Evaluation
 
 As QuestCrunch has 2 target user groups, our prototypes have 2 user interfaces, an interface for teachers, and an interface for students. The fact that we have 2 user interfaces was taken into consideration during our evaluation of the prototype, as we wanted to ensure the needs of each user group are met in their specific interfaces in our prototypes.
 
-**Evaluation Process**  
-The Expert (Peer) Evaluation was done by all 4 members of our team, and consisted of 4 peer evaluators evaluating both views for 2 different prototype. This was conducted in Week 10. The findings gathered from this evaluation were used in the development of our [Third Iteration Prototype](/questcrunch/our-process/#prototype-3rd-iteration)
+### Evaluation Process
 
-The User Evaluation was conducted with our real target users, teachers and students. 2 students and 2 teachers evaluated their respective interfaces for a semi-final prototype. This was conducted in Week 11. The findings gathered from this evaluation were used in the development of our [Fourth Iteration Prototype](/questcrunch/our-process/#prototype-4th-iteration) aka our final prototype.
+#### Expert (Peer) Evaluation
+The Expert (Peer) Evaluation was done by all 4 members of our team, and consisted of 4 peer evaluators evaluating both views for 2 different prototypes from our [Second Iteration Prototypes](/questcrunch/our-process/#prototype-2nd-iteration) This was conducted in Week 10. The findings gathered from this evaluation were used in the development of our [Third Iteration Prototype](/questcrunch/our-process/#prototype-3rd-iteration)
+
+#### User Evaluation
+The User Evaluation was conducted with our real target users, teachers and students. 2 students and 2 teachers evaluated their respective interfaces on our [Third Iteration Prototype](/questcrunch/our-process/#prototype-3rd-iteration). This was conducted in Week 11. The findings gathered from this evaluation were used in the development of our [Fourth Iteration Prototype](/questcrunch/our-process/#prototype-4th-iteration) aka our final prototype.
 
 
 ## Expert (Peer) Evaluation
 
 For this evaluation, we consulted 4 of our peers in the same module for their insighs and feedback on the user flow and interface design of our application. The evaluation was conducted by all members of the team, over Zoom. 
 
+A detailed breakdown of our evaluation plan can be found at the following link 
+
+[View Evaluation Plan](https://docs.google.com/document/d/1mDH7T2XLrzwWuDr8nBcftSAlmypC7ERmCkwM-8MGmdE/edit?usp=sharing){: .btn .btn--info}
+
 ### Purpose
 
 Our main goal for this stage of evaluation, was to get an insight on the general _usability_ of each of the 2 prototypes, and the intuitivity of the user flows to complete tasks in the application-- From the perspective of peers that are well versed with the design concepts and heuristics taught in the module.
+
+{% include figure 
+    image_path="/images/A_3 grabs.png" 
+    caption="Prototype A" 
+%}
+
+{% include figure 
+    image_path="/images/B_3 grabs.png" 
+    caption="Prototype B" 
+%}
 
 ### Plan
 
@@ -58,7 +78,9 @@ We gave each evaluator a list of tasks, and each evaluator was instructed to com
 
 ### Results
 
-After the evaluation, we summarised the issues raised during each evaluation session for each prototype. 
+After the evaluation, we summarised the issues raised during each evaluation session for each prototype. A detailed report on the results and responses received from each evaluator can be found at the following link 
+
+[View Peer Evaluation Results](https://docs.google.com/document/d/1ZUKYrPgtIlRw27-JSuJBi515Fk1e4NPJaNzw9SYYjII/edit?usp=sharing){: .btn .btn--info}
 
 **Prototype A**  
 
@@ -101,12 +123,6 @@ From the evaluation, we summarised the aspects that we felt one prototype perfor
 | Appeal to Students | | &#10004;| 
 
 
-**Detailed Report of Expert Evaluation**
-
-A detailed report on the results and responses received from each evaluator can be found at the following link 
-
-[View Peer Evaluation Results](https://docs.google.com/document/d/1ZUKYrPgtIlRw27-JSuJBi515Fk1e4NPJaNzw9SYYjII/edit?usp=sharing){: .btn .btn--info}
-
 ### Insights  
 
 Overall, our findings were that Prototype A had a clear user flow, but was too plain looking and felt lacking in functionality due to its simplistic take. On the other hand, prototype B was visually pleasing but at times it seemed visually overwhelming and overly complicated, making users confused on certain user navigation with a significantly lower percentage of completion. Yet, the majority of the users still preferred prototype B for its completeness.
@@ -117,6 +133,9 @@ As such, we aimed to strike a balance between functional, completeness, visual s
 
 For this evaluation, we managed to contact 3 students and 2 teachers to conduct a real user evaluation on the [3rd iteration of our prototype](/questcrunch/our-process/#prototype-3rd-iteration). The evaluation was conducted by all members of the team, via Zoom.
 
+![](../images/v3-1.png)
+![](../images/v3-2.png)
+
 ### Purpose
 
 The purpose of this evaluation is to get an understanding of the usability and intuitiveness of our application from the perspective of our target users. The results of this round of evaluation are crucial to understand important flaws in the current prototype that we may have missed out during the design process.
@@ -124,6 +143,8 @@ The purpose of this evaluation is to get an understanding of the usability and i
 ### Plan
 
 ### Results
+
+A detailed report on the results and responses received from each evaluator can be found at the following link 
 
 [View User Evaluation Results](https://docs.google.com/document/d/1GO8cm5W0EPDc9ytAh63yDP0qb6BTgirxnGwJOV7l2ac/edit?usp=sharing){:.btn .btn--info}
 
