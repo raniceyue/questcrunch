@@ -79,7 +79,7 @@ We also supplemented our online survey with a preamble that assures the protecti
 
 During and after our user study, our team kept and maintained a reflective design notebook that consists of a consolidation of our thoughts after every iteration of the design process. 
 
-[View our Reflective Design Notebook](/downloads/reflectivedesign.pdf){:.btn .btn--info}
+[View our Reflective Design Notebook](../downloads/reflectivedesign.pdf){:.btn .btn--info}
 
 ### Ideation Stage  
 
