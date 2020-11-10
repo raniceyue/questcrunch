@@ -61,6 +61,18 @@ Our complete User Study Plan and the results and responses received from the stu
 
 [View User Study Report](../downloads/user-study-plan.pdf){: .btn .btn--info}
 
+{% capture disclaimer %}
+
+**Disclaimer**
+
+As we did not retrieve any identifying information from the participants throughout the evaluation, we did not feel the need to draft any conset forms as all participants' personal data is protected.
+
+We also supplemented our online survey with a preamble that assures the protection of the personal data of all participants for the survey, and did not include any questions that can possibly identify our participants.
+
+{% endcapture %}
+
+<div class="notice--primary">{{ disclaimer | markdownify }}</div>
+
 ## Design Process
 
 ### Ideation Stage  
@@ -73,7 +85,7 @@ The team came together to brainstorm different possible user interfaces using th
 
 ![](../images/harshi-crazy8.png)
 
-
+![](../images/ranice-crazy8.jpg)
 
 ### Prototype 1st Iteration
 For this 1st iteration, each member came up with 1 prototype each based on our own design ideas, and the list of functions we had came up with for QuestCrunch.
@@ -101,26 +113,39 @@ The above prototypes were evaluated by our group's TA, who gave feedback, and in
 ### Prototype 2nd Iteration
 For the 2nd iteration, we decided to pick the 2 best prototypes from the 4 prototypes in the 1st iteration, to be used for our [Expert (Peer) Evaluation]().
 
+To facilitate the peer evaluation, we decided to combine and standardize all the features  into 2 prototypes (A and B) that had two distinctly different themes. This was done to measure the user’s preference towards gamification, and whether they prefer a more minimalistic design.
+
+For prototype A, certain lacking functionalities such as Quest in progress page and start quest page was implemented for a more complete comparison.
+
+For prototype B, certain lacking functionalities such as calendar view was integrated into the prototype for a more complete comparison
+
 **Prototype A**  
 Prototype A is a minimalist take on the application, with a soothing colour palette and simplified icons. We felt that its simple UI could be appealing to teachers, which is one of our major target user groups.
+
+[View Prototype A](https://www.figma.com/proto/UA5p3GrWht12BUhlObDx4X/CS3240-Prototype-(A)?node-id=1%3A137&scaling=scale-down){:.btn .btn--info}
 
 {% include figure 
     image_path="/images/v2-1.png" 
     caption="Prototype A" 
 %}
 
+
 **Prototype B**  
 Prototype B is a gamified take on the application, with a bold colour palette and pixel art that grabs attention. We felt that this eye-catching UI could be appealing to students, which is our other major target user group.
+
+[View Prototype B](https://www.figma.com/proto/1ToIF30VJqs9NkOJ5psGkh/CS3240-Prototype-(B)?node-id=1%3A4&scaling=scale-down){:.btn .btn--info}
 
 {% include figure 
     image_path="/images/v2-2.png" 
     caption="Prototype B" 
 %}
 
-Using these 2 prototypes, we conducted our [Expert (Peer) Evaluation]() to guage the usability, pros and cons of each respective prototype. We aimed to use the results, opinions and feedback gathered from the evaluation to further refine and create a final prototype from the 2 prototypes. 
+Using these 2 prototypes, we conducted our [Expert (Peer) Evaluation](/questcrunch/evaluation/#expert-peer-evaluation-1) to gauge the usability, pros and cons of each respective prototype. We aimed to use the results, opinions and feedback gathered from the evaluation to further refine and create a final prototype from the 2 prototypes. 
 
 ### Prototype 3rd Iteration
 For the 3rd iteration, after gathering feedback from our expert evaluation, we decided to combine the good aspects of each respective prototype into 1 semi-final prototype.
+
+[View Prototype 3rd Iteration](https://www.figma.com/proto/b6j5J3EQfgije7wrV8qEiU/CS3240-Team-24-Final-Prototype?node-id=78%3A4937&viewport=431%2C210%2C0.10653132945299149&scaling=scale-down){:.btn .btn--info}
 
 ![](../images/v3-1.png)
 ![](../images/v3-2.png)
@@ -144,6 +169,8 @@ Using this 3rd prototype, we conducted another evaluation with our target users,
 For the 4th iteration, after gathering insights from our [Real User Evaluation](/questcrunch/evaluation/#user-evaluation), we decided to do one last polish of our application's user interface based on the feedback given by our real users.
 
 We sought to fix the design issues raised from the evaluation, and made further changes to standardise the styling of our components, and made certain labels easier to comprehend so that our application would be easier to navigate through. Thus resulted in our fourth and final prototype for the application. 
+
+[View Prototype 4th Iteration (Final)](https://www.figma.com/proto/b6j5J3EQfgije7wrV8qEiU/CS3240-Team-24-Prototype-ver-3-and-ver-4-Final?node-id=185%3A7968&viewport=180%2C314%2C0.10342724621295929&scaling=scale-down){:.btn .btn--info}
 
 {% include figure 
     image_path="/images/v4.png"

@@ -21,11 +21,21 @@ As QuestCrunch has 2 target user groups, our prototypes have 2 user interfaces, 
 
 ### Evaluation Process
 
+{% capture disclaimer %}
+
+**Disclaimer**
+
+As we did not retrieve any identifying information from the participants throughout the evaluation, we did not feel the need to draft any conset forms as all participants' personal data is protected.
+
+{% endcapture %}
+
 #### Expert (Peer) Evaluation
 The Expert (Peer) Evaluation was done by all 4 members of our team, and consisted of 4 peer evaluators evaluating both views for 2 different prototypes from our [Second Iteration Prototypes](/questcrunch/our-process/#prototype-2nd-iteration) This was conducted in Week 10. The findings gathered from this evaluation were used in the development of our [Third Iteration Prototype](/questcrunch/our-process/#prototype-3rd-iteration)
 
 #### User Evaluation
-The User Evaluation was conducted with our real target users, teachers and students. 2 students and 2 teachers evaluated their respective interfaces on our [Third Iteration Prototype](/questcrunch/our-process/#prototype-3rd-iteration). This was conducted in Week 11. The findings gathered from this evaluation were used in the development of our [Fourth Iteration Prototype](/questcrunch/our-process/#prototype-4th-iteration) aka our final prototype.
+The User Evaluation was conducted with our real target users, teachers and students. 3 students and 2 teachers evaluated their respective interfaces on our [Third Iteration Prototype](/questcrunch/our-process/#prototype-3rd-iteration). This was conducted in Week 11. The findings gathered from this evaluation were used in the development of our [Fourth Iteration Prototype](/questcrunch/our-process/#prototype-4th-iteration) aka our final prototype.
+
+<div class="notice--primary">{{ disclaimer | markdownify }}</div>
 
 
 ## Expert (Peer) Evaluation
@@ -141,6 +151,11 @@ For this evaluation, we managed to contact 3 students and 2 teachers to conduct 
 The purpose of this evaluation is to get an understanding of the usability and intuitiveness of our application from the perspective of our target users. The results of this round of evaluation are crucial to understand important flaws in the current prototype that we may have missed out during the design process.
 
 ### Plan
+
+The user evaluation was conducted in a similar fashion as the peer evaluation. 3 secondary students were asked to complete a list of tasks on the student version of the application and 2 teachers were asked to complete a list of tasks on the teacher version. The users’ performance were then rated using the same scale as the one used in the peer evaluation. 
+
+After completing each task, we enquired about their process and found out more about their thought process.
+At the end of the evaluation, we asked them general comments about the colour scheme, overall applicability, and appeal of our application. 
 
 ### Results
 
