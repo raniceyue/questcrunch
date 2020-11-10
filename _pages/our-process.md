@@ -75,6 +75,12 @@ We also supplemented our online survey with a preamble that assures the protecti
 
 ## Design Process
 
+### Reflective Design Notebook
+
+During and after our user study, our team kept and maintained a reflective design notebook that consists of a consolidation of our thoughts after every iteration of the design process. 
+
+[View our Reflective Design Notebook](/downloads/reflectivedesign.pdf){:.btn .btn--info}
+
 ### Ideation Stage  
 
 The team came together to brainstorm different possible user interfaces using the Crazy 8's method exercise practiced in lecture
@@ -128,7 +134,6 @@ Prototype A is a minimalist take on the application, with a soothing colour pale
     image_path="/images/v2-1.png" 
     caption="Prototype A" 
 %}
-
 
 **Prototype B**  
 Prototype B is a gamified take on the application, with a bold colour palette and pixel art that grabs attention. We felt that this eye-catching UI could be appealing to students, which is our other major target user group.
