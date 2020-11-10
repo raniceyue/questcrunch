@@ -30,9 +30,13 @@ There are existing applications out there that attempt to help develop focus, su
 
 **Pain Points**
 
-However, the rewards provided by the application are virtual, and each timed session is scheduled up to the student’s discretion. Students may find it hard to get motivated by intangible rewards, and allowing students to schedule each timed session in their own time at their own target does not prove effective if students tend to procrastinate their study time in the first place. 
+<img src="../images/distracted.svg" alt="drawing" width="400"/>{: .align-center}
+
+However, the rewards provided by the application are virtual, and each timed session is scheduled up to the student’s discretion. Students may find it hard to get motivated by intangible rewards, and allowing students to schedule each timed session in their own time at their own target does not prove effective if students tend to procrastinate their study time in the first place. Our [User Study](/questcrunch/our-process/#user-study-plan) revealed such pain points expressed by students in Secondary School and Junior College.
 
 **Solution**
+
+<img src="../images/teacher-help.svg" alt="drawing" width="450"/>{: .align-center}
 
 In QuestCrunch, the timed study sessions in the application are scheduled by a teacher, and students are rewarded with virtual coins, which may be exchanged with real-life rewards decided by their teachers. In this way, QuestCrunch provides a platform that helps to facilitate and encourage study habits in students, paced by their teachers. 
 
