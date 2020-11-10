@@ -148,4 +148,16 @@ A detailed report on the results and responses received from each evaluator can 
 
 [View User Evaluation Results](https://docs.google.com/document/d/1GO8cm5W0EPDc9ytAh63yDP0qb6BTgirxnGwJOV7l2ac/edit?usp=sharing){:.btn .btn--info}
 
+After this round of evaluation, we once again summarised the issues raised by the user evaluators during our testing. 
+
+|No.| Page/Component | Usability Problem | Severity |
+|---|----------------|-------------------|----------|
+| 1| Class Page (Teacher) | Difficult to find the button to add a new student to the class, as the ‘plus’ button was not very intuitive. A user mentioned that they had to read the text on the search bar beside it to understand its use. | High |
+| 2| Home Page | The class labels were complex in design, which made most of the users a little confused when they first arrived on the home page. Some users mentioned that the page felt rather noisy. | Medium |
+| 3| Quests Page | The buttons to toggle between list and calendar were small, which made it difficult to click on | Medium |
+| 4| Join Class Page | The buttons to join a class via class id and to join a class via qr code were too close to each other and caused some confusion on how to proceed | Medium |
+| 5 | Overall | Some inconsistency in button sizes in certain pages made it harder for users to identify the main action of the page | Low |
+
 ### Insights
+
+The general takeaway from this round of evaluation was that our prototype was easy to navigate through, and the colour scheme was appealing to the audience, however we still had some things to resolve as seen by the issues raised in the results. These insights were used to further refine and standardise the look and feel of our prototype to improve usability for our target users. Thus resulted in our final prototype aka our [Fourth Iteration Prototype](/questcrunch/our-process/#prototype-4th-iteration).

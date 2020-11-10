@@ -105,7 +105,7 @@ For the 2nd iteration, we decided to pick the 2 best prototypes from the 4 proto
 Prototype A is a minimalist take on the application, with a soothing colour palette and simplified icons. We felt that its simple UI could be appealing to teachers, which is one of our major target user groups.
 
 {% include figure 
-    image_path="/images/A_3 grabs.png" 
+    image_path="/images/v2-1.png" 
     caption="Prototype A" 
 %}
 
@@ -113,7 +113,7 @@ Prototype A is a minimalist take on the application, with a soothing colour pale
 Prototype B is a gamified take on the application, with a bold colour palette and pixel art that grabs attention. We felt that this eye-catching UI could be appealing to students, which is our other major target user group.
 
 {% include figure 
-    image_path="/images/B_3 grabs.png" 
+    image_path="/images/v2-2.png" 
     caption="Prototype B" 
 %}
 
@@ -142,6 +142,8 @@ Using this 3rd prototype, we conducted another evaluation with our target users,
 
 ### Prototype 4th Iteration
 For the 4th iteration, after gathering insights from our [Real User Evaluation](/questcrunch/evaluation/#user-evaluation), we decided to do one last polish of our application's user interface based on the feedback given by our real users.
+
+We sought to fix the design issues raised from the evaluation, and made further changes to standardise the styling of our components, and made certain labels easier to comprehend so that our application would be easier to navigate through. Thus resulted in our fourth and final prototype for the application. 
 
 {% include figure 
     image_path="/images/v4.png"
