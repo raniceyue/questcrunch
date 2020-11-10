@@ -172,6 +172,7 @@ After this round of evaluation, we once again summarised the issues raised by th
 | 3| Quests Page | The buttons to toggle between list and calendar were small, which made it difficult to click on | Medium |
 | 4| Join Class Page | The buttons to join a class via class id and to join a class via qr code were too close to each other and caused some confusion on how to proceed | Medium |
 | 5 | Overall | Some inconsistency in button sizes in certain pages made it harder for users to identify the main action of the page | Low |
+| 6| Rewards | Colour of Rewards model is a bit dull in comparison to other modals | Low |
 
 ### Insights
 
